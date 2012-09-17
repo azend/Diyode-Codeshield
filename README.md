@@ -1,6 +1,5 @@
 Diyode Codeshield
 =================
-Unofficial git repo for the Diyode Codeshield.
 
 ### So what is the Diyode Codeshield?
 The Diyode Codeshield is an electronics powerpack filled with motors, lights, and sounds to get you going right out of the gate. It is also built atop the powerful and open source Arduino platform, equipping you with the massive software libraries and support that it has amassed.
